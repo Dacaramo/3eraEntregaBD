@@ -6,5 +6,5 @@ package accesoDatos;
 public class ConstantesOrion {
     public static final String USERNAME = "is201704";
     public static final String PASSWORD = "7oquCZSxRi";
-    public static final String THINCONN = "jdbc:oracle:thin:@orion.javeriana.edu.co:1521:pujdb";
+    public static final String THINCONN = "jdbc:oracle:thin:@orion.javeriana.edu.co:1521:pujdb"; 
 }
