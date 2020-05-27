@@ -1,7 +1,7 @@
 
 package pantallaKiosco;
 
-import entities.Linea;
+import entities.Linea; //HOLA
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
